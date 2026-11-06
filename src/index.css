@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+    font-size: 17px;
+  }
+  body {
+    @apply font-sans antialiased;
+  }
+  :focus-visible {
+    @apply outline-none ring-2 ring-accent-yellow ring-offset-2 ring-offset-surface dark:ring-offset-navy-dark;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer components {
+  .card {
+    @apply rounded-2xl bg-white shadow-soft dark:bg-navy-light dark:shadow-none;
+  }
+  .btn {
+    @apply inline-flex min-h-touch items-center justify-center gap-2 rounded-2xl px-4 py-2 font-extrabold transition active:scale-95 disabled:cursor-not-allowed;
+  }
+  .btn-primary {
+    @apply btn bg-q1 text-white shadow-soft hover:brightness-110;
+  }
+  .btn-ghost {
+    @apply btn bg-transparent text-q1 hover:bg-q1/10 dark:text-accent-yellow dark:hover:bg-white/10;
+  }
+  .icon-btn {
+    @apply inline-flex h-11 w-11 items-center justify-center rounded-xl transition hover:bg-white/10;
+  }
+  .input {
+    @apply w-full rounded-xl border-2 border-slate-200 bg-white px-3 py-2 text-base text-navy outline-none transition focus:border-q1 dark:border-navy dark:bg-navy dark:text-white dark:[color-scheme:dark];
+  }
+}

@@ -1,0 +1,3308 @@
+{
+ "title": "English 52 Weeks",
+ "owner": "Ronaldo",
+ "weights": {
+  "words": 40,
+  "phrases": 20,
+  "book": 20,
+  "video": 20
+ },
+ "weeks": [
+  {
+   "week": 1,
+   "quarter": 1,
+   "quarterTheme": "Base: o essencial",
+   "cumulativeWords": 3,
+   "words": [
+    {
+     "en": "I",
+     "pron": "ái",
+     "pt": "eu"
+    },
+    {
+     "en": "be",
+     "pron": "bí",
+     "pt": "ser/estar"
+    },
+    {
+     "en": "have",
+     "pron": "rév",
+     "pt": "ter"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I have a good day.",
+     "pt": "Eu tenho um bom dia."
+    },
+    {
+     "en": "I am good.",
+     "pt": "Eu estou bem."
+    }
+   ],
+   "book": {
+    "title": "Robin Hood",
+    "level": "Starter (A1)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "Teacher Allie",
+    "search": "Teacher Allie verbo to be",
+    "url": "https://www.youtube.com/results?search_query=Teacher+Allie+verbo+to+be"
+   }
+  },
+  {
+   "week": 2,
+   "quarter": 1,
+   "quarterTheme": "Base: o essencial",
+   "cumulativeWords": 6,
+   "words": [
+    {
+     "en": "the",
+     "pron": "dâ",
+     "pt": "o/a/os/as"
+    },
+    {
+     "en": "a",
+     "pron": "â",
+     "pt": "um/uma"
+    },
+    {
+     "en": "good",
+     "pron": "gúd",
+     "pt": "bom"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "The day is good.",
+     "pt": "O dia é bom."
+    },
+    {
+     "en": "I have a car.",
+     "pt": "Eu tenho um carro."
+    }
+   ],
+   "book": {
+    "title": "Robin Hood",
+    "level": "Starter (A1)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Mairo Vergara",
+    "search": "Mairo Vergara artigos the a an",
+    "url": "https://www.youtube.com/results?search_query=Mairo+Vergara+artigos+the+a+an"
+   }
+  },
+  {
+   "week": 3,
+   "quarter": 1,
+   "quarterTheme": "Base: o essencial",
+   "cumulativeWords": 9,
+   "words": [
+    {
+     "en": "you",
+     "pron": "iú",
+     "pt": "você"
+    },
+    {
+     "en": "do",
+     "pron": "dú",
+     "pt": "fazer"
+    },
+    {
+     "en": "go",
+     "pron": "gôu",
+     "pt": "ir"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "You go to work.",
+     "pt": "Você vai ao trabalho."
+    },
+    {
+     "en": "What do you do?",
+     "pt": "O que você faz?"
+    }
+   ],
+   "book": {
+    "title": "Sherlock Holmes and the Duke's Son",
+    "level": "Level 1 (A1)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "BBC Learning English",
+    "search": "BBC Learning English present simple",
+    "url": "https://www.youtube.com/results?search_query=BBC+Learning+English+present+simple"
+   }
+  },
+  {
+   "week": 4,
+   "quarter": 1,
+   "quarterTheme": "Base: o essencial",
+   "cumulativeWords": 12,
+   "words": [
+    {
+     "en": "it",
+     "pron": "ít",
+     "pt": "isso/ele (coisa)"
+    },
+    {
+     "en": "not",
+     "pron": "nót",
+     "pt": "não"
+    },
+    {
+     "en": "day",
+     "pron": "dêi",
+     "pt": "dia"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "It is not a good day.",
+     "pt": "Não é um bom dia."
+    },
+    {
+     "en": "I do not go.",
+     "pt": "Eu não vou."
+    }
+   ],
+   "book": {
+    "title": "Sherlock Holmes and the Duke's Son",
+    "level": "Level 1 (A1)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "English with Lucy",
+    "search": "English with Lucy negative sentences don't",
+    "url": "https://www.youtube.com/results?search_query=English+with+Lucy+negative+sentences+don%27t"
+   }
+  },
+  {
+   "week": 5,
+   "quarter": 1,
+   "quarterTheme": "Base: o essencial",
+   "cumulativeWords": 17,
+   "words": [
+    {
+     "en": "and",
+     "pron": "énd",
+     "pt": "e"
+    },
+    {
+     "en": "to",
+     "pron": "tú",
+     "pt": "para"
+    },
+    {
+     "en": "work",
+     "pron": "uârk",
+     "pt": "trabalhar"
+    },
+    {
+     "en": "time",
+     "pron": "táim",
+     "pt": "tempo/vez"
+    },
+    {
+     "en": "new",
+     "pron": "níu",
+     "pt": "novo"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I go to work.",
+     "pt": "Eu vou ao trabalho."
+    },
+    {
+     "en": "It is a new day.",
+     "pt": "É um novo dia."
+    }
+   ],
+   "book": {
+    "title": "The Elephant Man",
+    "level": "Level 1 (A1)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "Teacher Allie",
+    "search": "Teacher Allie preposições to for",
+    "url": "https://www.youtube.com/results?search_query=Teacher+Allie+preposi%C3%A7%C3%B5es+to+for"
+   }
+  },
+  {
+   "week": 6,
+   "quarter": 1,
+   "quarterTheme": "Base: o essencial",
+   "cumulativeWords": 22,
+   "words": [
+    {
+     "en": "we",
+     "pron": "uí",
+     "pt": "nós"
+    },
+    {
+     "en": "get",
+     "pron": "guét",
+     "pt": "conseguir/pegar"
+    },
+    {
+     "en": "know",
+     "pron": "nôu",
+     "pt": "saber/conhecer"
+    },
+    {
+     "en": "people",
+     "pron": "pípol",
+     "pt": "pessoas"
+    },
+    {
+     "en": "big",
+     "pron": "bíg",
+     "pt": "grande"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "We know the people.",
+     "pt": "Nós conhecemos as pessoas."
+    },
+    {
+     "en": "It is a big day.",
+     "pt": "É um grande dia."
+    }
+   ],
+   "book": {
+    "title": "The Elephant Man",
+    "level": "Level 1 (A1)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "BBC Learning English",
+    "search": "BBC Learning English 6 Minute English",
+    "url": "https://www.youtube.com/results?search_query=BBC+Learning+English+6+Minute+English"
+   }
+  },
+  {
+   "week": 7,
+   "quarter": 1,
+   "quarterTheme": "Base: o essencial",
+   "cumulativeWords": 27,
+   "words": [
+    {
+     "en": "my",
+     "pron": "mái",
+     "pt": "meu/minha"
+    },
+    {
+     "en": "make",
+     "pron": "mêik",
+     "pt": "fazer/criar"
+    },
+    {
+     "en": "see",
+     "pron": "sí",
+     "pt": "ver"
+    },
+    {
+     "en": "year",
+     "pron": "íar",
+     "pt": "ano"
+    },
+    {
+     "en": "old",
+     "pron": "ôuld",
+     "pt": "velho"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I see my old friend.",
+     "pt": "Eu vejo meu velho amigo."
+    },
+    {
+     "en": "I make coffee every year.",
+     "pt": "Faço café todo ano."
+    }
+   ],
+   "book": {
+    "title": "Love or Money?",
+    "level": "Level 1 (A1)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "Easy English",
+    "search": "Easy English street interviews family",
+    "url": "https://www.youtube.com/results?search_query=Easy+English+street+interviews+family"
+   }
+  },
+  {
+   "week": 8,
+   "quarter": 1,
+   "quarterTheme": "Base: o essencial",
+   "cumulativeWords": 32,
+   "words": [
+    {
+     "en": "this",
+     "pron": "dís",
+     "pt": "este/isto"
+    },
+    {
+     "en": "want",
+     "pron": "uónt",
+     "pt": "querer"
+    },
+    {
+     "en": "think",
+     "pron": "tínk",
+     "pt": "pensar/achar"
+    },
+    {
+     "en": "man",
+     "pron": "mén",
+     "pt": "homem"
+    },
+    {
+     "en": "great",
+     "pron": "grêit",
+     "pt": "ótimo"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I want this.",
+     "pt": "Eu quero isto."
+    },
+    {
+     "en": "I think it is great.",
+     "pt": "Eu acho que é ótimo."
+    }
+   ],
+   "book": {
+    "title": "Love or Money?",
+    "level": "Level 1 (A1)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Mairo Vergara",
+    "search": "Mairo Vergara want to",
+    "url": "https://www.youtube.com/results?search_query=Mairo+Vergara+want+to"
+   }
+  },
+  {
+   "week": 9,
+   "quarter": 1,
+   "quarterTheme": "Base: o essencial",
+   "cumulativeWords": 38,
+   "words": [
+    {
+     "en": "in",
+     "pron": "ín",
+     "pt": "em/dentro"
+    },
+    {
+     "en": "with",
+     "pron": "uíd",
+     "pt": "com"
+    },
+    {
+     "en": "say",
+     "pron": "sêi",
+     "pt": "dizer"
+    },
+    {
+     "en": "thing",
+     "pron": "tín",
+     "pt": "coisa"
+    },
+    {
+     "en": "woman",
+     "pron": "uúman",
+     "pt": "mulher"
+    },
+    {
+     "en": "little",
+     "pron": "lírol",
+     "pt": "pequeno/pouco"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I work with people.",
+     "pt": "Eu trabalho com pessoas."
+    },
+    {
+     "en": "Say a little thing.",
+     "pt": "Diga uma coisinha."
+    }
+   ],
+   "book": {
+    "title": "The Phantom of the Opera",
+    "level": "Level 1 (A1)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "English in Brazil (Carina Fragozo)",
+    "search": "Carina Fragozo in on at",
+    "url": "https://www.youtube.com/results?search_query=Carina+Fragozo+in+on+at"
+   }
+  },
+  {
+   "week": 10,
+   "quarter": 1,
+   "quarterTheme": "Base: o essencial",
+   "cumulativeWords": 44,
+   "words": [
+    {
+     "en": "he",
+     "pron": "rí",
+     "pt": "ele"
+    },
+    {
+     "en": "she",
+     "pron": "xí",
+     "pt": "ela"
+    },
+    {
+     "en": "come",
+     "pron": "câm",
+     "pt": "vir"
+    },
+    {
+     "en": "take",
+     "pron": "têik",
+     "pt": "pegar/levar"
+    },
+    {
+     "en": "way",
+     "pron": "uêi",
+     "pt": "caminho/jeito"
+    },
+    {
+     "en": "long",
+     "pron": "lóng",
+     "pt": "longo"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "She comes to work.",
+     "pt": "Ela vem trabalhar."
+    },
+    {
+     "en": "It is a long way.",
+     "pt": "É um caminho longo."
+    }
+   ],
+   "book": {
+    "title": "The Phantom of the Opera",
+    "level": "Level 1 (A1)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Teacher Allie",
+    "search": "Teacher Allie pronomes he she they",
+    "url": "https://www.youtube.com/results?search_query=Teacher+Allie+pronomes+he+she+they"
+   }
+  },
+  {
+   "week": 11,
+   "quarter": 1,
+   "quarterTheme": "Base: o essencial",
+   "cumulativeWords": 50,
+   "words": [
+    {
+     "en": "they",
+     "pron": "dêi",
+     "pt": "eles/elas"
+    },
+    {
+     "en": "of",
+     "pron": "óv",
+     "pt": "de"
+    },
+    {
+     "en": "use",
+     "pron": "iúz",
+     "pt": "usar"
+    },
+    {
+     "en": "look",
+     "pron": "lúk",
+     "pt": "olhar"
+    },
+    {
+     "en": "life",
+     "pron": "láif",
+     "pt": "vida"
+    },
+    {
+     "en": "right",
+     "pron": "ráit",
+     "pt": "certo/direita"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "They use the system.",
+     "pt": "Eles usam o sistema."
+    },
+    {
+     "en": "Look to the right.",
+     "pt": "Olhe para a direita."
+    }
+   ],
+   "book": {
+    "title": "The Monkey's Paw",
+    "level": "Level 1 (A1)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "Learn English with Bob the Canadian",
+    "search": "Bob the Canadian daily routine",
+    "url": "https://www.youtube.com/results?search_query=Bob+the+Canadian+daily+routine"
+   }
+  },
+  {
+   "week": 12,
+   "quarter": 1,
+   "quarterTheme": "Base: o essencial",
+   "cumulativeWords": 56,
+   "words": [
+    {
+     "en": "on",
+     "pron": "ón",
+     "pt": "sobre/em"
+    },
+    {
+     "en": "for",
+     "pron": "fór",
+     "pt": "para/por"
+    },
+    {
+     "en": "find",
+     "pron": "fáind",
+     "pt": "encontrar"
+    },
+    {
+     "en": "give",
+     "pron": "guív",
+     "pt": "dar"
+    },
+    {
+     "en": "child",
+     "pron": "tcháild",
+     "pt": "criança"
+    },
+    {
+     "en": "high",
+     "pron": "rái",
+     "pt": "alto"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I find it for you.",
+     "pt": "Eu encontro para você."
+    },
+    {
+     "en": "Give it to the child.",
+     "pt": "Dê para a criança."
+    }
+   ],
+   "book": {
+    "title": "The Monkey's Paw",
+    "level": "Level 1 (A1)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Speak English with Vanessa",
+    "search": "Speak English with Vanessa take give phrasal verbs",
+    "url": "https://www.youtube.com/results?search_query=Speak+English+with+Vanessa+take+give+phrasal+verbs"
+   }
+  },
+  {
+   "week": 13,
+   "quarter": 1,
+   "quarterTheme": "Base: o essencial",
+   "cumulativeWords": 62,
+   "words": [
+    {
+     "en": "what",
+     "pron": "uót",
+     "pt": "o que"
+    },
+    {
+     "en": "at",
+     "pron": "ét",
+     "pt": "em/às"
+    },
+    {
+     "en": "tell",
+     "pron": "tél",
+     "pt": "contar/dizer"
+    },
+    {
+     "en": "ask",
+     "pron": "ésk",
+     "pt": "perguntar/pedir"
+    },
+    {
+     "en": "world",
+     "pron": "uórld",
+     "pt": "mundo"
+    },
+    {
+     "en": "different",
+     "pron": "díferent",
+     "pt": "diferente"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "What do you want?",
+     "pt": "O que você quer?"
+    },
+    {
+     "en": "Tell me, please.",
+     "pt": "Me conte, por favor."
+    }
+   ],
+   "book": {
+    "title": "White Death",
+    "level": "Level 1 (A1)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "BBC Learning English",
+    "search": "BBC Learning English wh questions",
+    "url": "https://www.youtube.com/results?search_query=BBC+Learning+English+wh+questions"
+   }
+  },
+  {
+   "week": 14,
+   "quarter": 2,
+   "quarterTheme": "Comunicação diária",
+   "cumulativeWords": 68,
+   "words": [
+    {
+     "en": "who",
+     "pron": "rú",
+     "pt": "quem"
+    },
+    {
+     "en": "from",
+     "pron": "frôm",
+     "pt": "de (origem)"
+    },
+    {
+     "en": "feel",
+     "pron": "fíl",
+     "pt": "sentir"
+    },
+    {
+     "en": "try",
+     "pron": "trái",
+     "pt": "tentar"
+    },
+    {
+     "en": "school",
+     "pron": "skúl",
+     "pt": "escola"
+    },
+    {
+     "en": "small",
+     "pron": "smól",
+     "pt": "pequeno"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Where are you from?",
+     "pt": "De onde você é?"
+    },
+    {
+     "en": "I feel good.",
+     "pt": "Eu me sinto bem."
+    }
+   ],
+   "book": {
+    "title": "White Death",
+    "level": "Level 1 (A1)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "English with Lucy",
+    "search": "English with Lucy common verbs feel try",
+    "url": "https://www.youtube.com/results?search_query=English+with+Lucy+common+verbs+feel+try"
+   }
+  },
+  {
+   "week": 15,
+   "quarter": 2,
+   "quarterTheme": "Comunicação diária",
+   "cumulativeWords": 74,
+   "words": [
+    {
+     "en": "where",
+     "pron": "uér",
+     "pt": "onde"
+    },
+    {
+     "en": "can",
+     "pron": "kén",
+     "pt": "poder/conseguir"
+    },
+    {
+     "en": "leave",
+     "pron": "lív",
+     "pt": "sair/deixar"
+    },
+    {
+     "en": "call",
+     "pron": "kól",
+     "pt": "ligar/chamar"
+    },
+    {
+     "en": "hand",
+     "pron": "rénd",
+     "pt": "mão"
+    },
+    {
+     "en": "large",
+     "pron": "lárdj",
+     "pt": "grande"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Where can I go?",
+     "pt": "Onde eu posso ir?"
+    },
+    {
+     "en": "Call me, please.",
+     "pt": "Me ligue, por favor."
+    }
+   ],
+   "book": {
+    "title": "Mutiny on the Bounty",
+    "level": "Level 1 (A1)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "Teacher Allie",
+    "search": "Teacher Allie can could",
+    "url": "https://www.youtube.com/results?search_query=Teacher+Allie+can+could"
+   }
+  },
+  {
+   "week": 16,
+   "quarter": 2,
+   "quarterTheme": "Comunicação diária",
+   "cumulativeWords": 80,
+   "words": [
+    {
+     "en": "when",
+     "pron": "uén",
+     "pt": "quando"
+    },
+    {
+     "en": "will",
+     "pron": "uíl",
+     "pt": "(futuro)"
+    },
+    {
+     "en": "need",
+     "pron": "níd",
+     "pt": "precisar"
+    },
+    {
+     "en": "keep",
+     "pron": "kíp",
+     "pt": "manter"
+    },
+    {
+     "en": "part",
+     "pron": "párt",
+     "pt": "parte"
+    },
+    {
+     "en": "next",
+     "pron": "nékst",
+     "pt": "próximo"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I will call you next week.",
+     "pt": "Vou te ligar semana que vem."
+    },
+    {
+     "en": "I need help.",
+     "pt": "Preciso de ajuda."
+    }
+   ],
+   "book": {
+    "title": "Mutiny on the Bounty",
+    "level": "Level 1 (A1)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Mairo Vergara",
+    "search": "Mairo Vergara futuro will",
+    "url": "https://www.youtube.com/results?search_query=Mairo+Vergara+futuro+will"
+   }
+  },
+  {
+   "week": 17,
+   "quarter": 2,
+   "quarterTheme": "Comunicação diária",
+   "cumulativeWords": 88,
+   "words": [
+    {
+     "en": "why",
+     "pron": "uái",
+     "pt": "por que"
+    },
+    {
+     "en": "how",
+     "pron": "ráu",
+     "pt": "como"
+    },
+    {
+     "en": "all",
+     "pron": "ól",
+     "pt": "todo(s)"
+    },
+    {
+     "en": "some",
+     "pron": "sâm",
+     "pt": "algum/alguns"
+    },
+    {
+     "en": "let",
+     "pron": "lét",
+     "pt": "deixar/permitir"
+    },
+    {
+     "en": "begin",
+     "pron": "biguín",
+     "pt": "começar"
+    },
+    {
+     "en": "place",
+     "pron": "plêis",
+     "pt": "lugar"
+    },
+    {
+     "en": "early",
+     "pron": "ârli",
+     "pt": "cedo"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "How are you?",
+     "pt": "Como você está?"
+    },
+    {
+     "en": "Let's begin early.",
+     "pt": "Vamos começar cedo."
+    }
+   ],
+   "book": {
+    "title": "The Canterville Ghost",
+    "level": "Level 2 (A2)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "BBC Learning English",
+    "search": "BBC Learning English English at Work",
+    "url": "https://www.youtube.com/results?search_query=BBC+Learning+English+English+at+Work"
+   }
+  },
+  {
+   "week": 18,
+   "quarter": 2,
+   "quarterTheme": "Comunicação diária",
+   "cumulativeWords": 96,
+   "words": [
+    {
+     "en": "there",
+     "pron": "dér",
+     "pt": "lá/ali"
+    },
+    {
+     "en": "here",
+     "pron": "rír",
+     "pt": "aqui"
+    },
+    {
+     "en": "very",
+     "pron": "véri",
+     "pt": "muito"
+    },
+    {
+     "en": "also",
+     "pron": "ólsou",
+     "pt": "também"
+    },
+    {
+     "en": "help",
+     "pron": "rélp",
+     "pt": "ajudar"
+    },
+    {
+     "en": "show",
+     "pron": "xôu",
+     "pt": "mostrar"
+    },
+    {
+     "en": "case",
+     "pron": "kêis",
+     "pt": "caso"
+    },
+    {
+     "en": "young",
+     "pron": "iâng",
+     "pt": "jovem"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "There is a problem here.",
+     "pt": "Há um problema aqui."
+    },
+    {
+     "en": "Can you help me?",
+     "pt": "Pode me ajudar?"
+    }
+   ],
+   "book": {
+    "title": "The Canterville Ghost",
+    "level": "Level 2 (A2)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Learn English with Bob the Canadian",
+    "search": "Bob the Canadian there is there are",
+    "url": "https://www.youtube.com/results?search_query=Bob+the+Canadian+there+is+there+are"
+   }
+  },
+  {
+   "week": 19,
+   "quarter": 2,
+   "quarterTheme": "Comunicação diária",
+   "cumulativeWords": 104,
+   "words": [
+    {
+     "en": "but",
+     "pron": "bât",
+     "pt": "mas"
+    },
+    {
+     "en": "or",
+     "pron": "ór",
+     "pt": "ou"
+    },
+    {
+     "en": "so",
+     "pron": "sôu",
+     "pt": "então/tão"
+    },
+    {
+     "en": "because",
+     "pron": "bicóz",
+     "pt": "porque"
+    },
+    {
+     "en": "hear",
+     "pron": "rír",
+     "pt": "ouvir"
+    },
+    {
+     "en": "play",
+     "pron": "plêi",
+     "pt": "jogar/tocar"
+    },
+    {
+     "en": "week",
+     "pron": "uík",
+     "pt": "semana"
+    },
+    {
+     "en": "important",
+     "pron": "impórtant",
+     "pt": "importante"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I go because it is important.",
+     "pt": "Vou porque é importante."
+    },
+    {
+     "en": "See you next week.",
+     "pt": "Até semana que vem."
+    }
+   ],
+   "book": {
+    "title": "Alice's Adventures in Wonderland",
+    "level": "Level 2 (A2)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "English in Brazil (Carina Fragozo)",
+    "search": "Carina Fragozo but so because",
+    "url": "https://www.youtube.com/results?search_query=Carina+Fragozo+but+so+because"
+   }
+  },
+  {
+   "week": 20,
+   "quarter": 2,
+   "quarterTheme": "Comunicação diária",
+   "cumulativeWords": 112,
+   "words": [
+    {
+     "en": "one",
+     "pron": "uân",
+     "pt": "um"
+    },
+    {
+     "en": "two",
+     "pron": "tchú",
+     "pt": "dois"
+    },
+    {
+     "en": "first",
+     "pron": "fârst",
+     "pt": "primeiro"
+    },
+    {
+     "en": "last",
+     "pron": "lést",
+     "pt": "último"
+    },
+    {
+     "en": "run",
+     "pron": "rân",
+     "pt": "correr/funcionar"
+    },
+    {
+     "en": "move",
+     "pron": "múv",
+     "pt": "mover/mudar"
+    },
+    {
+     "en": "company",
+     "pron": "kâmpani",
+     "pt": "empresa"
+    },
+    {
+     "en": "few",
+     "pron": "fiú",
+     "pt": "poucos"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "It is my first week.",
+     "pt": "É minha primeira semana."
+    },
+    {
+     "en": "The company is big.",
+     "pt": "A empresa é grande."
+    }
+   ],
+   "book": {
+    "title": "Alice's Adventures in Wonderland",
+    "level": "Level 2 (A2)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Rachel's English",
+    "search": "Rachel's English numbers pronunciation",
+    "url": "https://www.youtube.com/results?search_query=Rachel%27s+English+numbers+pronunciation"
+   }
+  },
+  {
+   "week": 21,
+   "quarter": 2,
+   "quarterTheme": "Comunicação diária",
+   "cumulativeWords": 120,
+   "words": [
+    {
+     "en": "our",
+     "pron": "áuar",
+     "pt": "nosso"
+    },
+    {
+     "en": "your",
+     "pron": "iór",
+     "pt": "seu (de você)"
+    },
+    {
+     "en": "their",
+     "pron": "dér",
+     "pt": "deles"
+    },
+    {
+     "en": "his",
+     "pron": "ríz",
+     "pt": "dele"
+    },
+    {
+     "en": "her",
+     "pron": "rêr",
+     "pt": "dela"
+    },
+    {
+     "en": "live",
+     "pron": "lív",
+     "pt": "morar/viver"
+    },
+    {
+     "en": "believe",
+     "pron": "bilív",
+     "pt": "acreditar"
+    },
+    {
+     "en": "public",
+     "pron": "pâblic",
+     "pt": "público"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I live in Sorocaba.",
+     "pt": "Eu moro em Sorocaba."
+    },
+    {
+     "en": "This is our team.",
+     "pt": "Esta é nossa equipe."
+    }
+   ],
+   "book": {
+    "title": "Dracula",
+    "level": "Level 2 (A2)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "Teacher Allie",
+    "search": "Teacher Allie possessivos my your his her",
+    "url": "https://www.youtube.com/results?search_query=Teacher+Allie+possessivos+my+your+his+her"
+   }
+  },
+  {
+   "week": 22,
+   "quarter": 2,
+   "quarterTheme": "Comunicação diária",
+   "cumulativeWords": 128,
+   "words": [
+    {
+     "en": "about",
+     "pron": "abáut",
+     "pt": "sobre"
+    },
+    {
+     "en": "up",
+     "pron": "âp",
+     "pt": "para cima"
+    },
+    {
+     "en": "out",
+     "pron": "áut",
+     "pt": "fora"
+    },
+    {
+     "en": "just",
+     "pron": "djâst",
+     "pt": "apenas/acabou de"
+    },
+    {
+     "en": "now",
+     "pron": "náu",
+     "pt": "agora"
+    },
+    {
+     "en": "bring",
+     "pron": "bríng",
+     "pt": "trazer"
+    },
+    {
+     "en": "problem",
+     "pron": "próblem",
+     "pt": "problema"
+    },
+    {
+     "en": "bad",
+     "pron": "béd",
+     "pt": "ruim"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I am out now.",
+     "pt": "Estou fora agora."
+    },
+    {
+     "en": "It is not a bad problem.",
+     "pt": "Não é um problema ruim."
+    }
+   ],
+   "book": {
+    "title": "Dracula",
+    "level": "Level 2 (A2)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Speak English with Vanessa",
+    "search": "Speak English with Vanessa just now",
+    "url": "https://www.youtube.com/results?search_query=Speak+English+with+Vanessa+just+now"
+   }
+  },
+  {
+   "week": 23,
+   "quarter": 2,
+   "quarterTheme": "Comunicação diária",
+   "cumulativeWords": 136,
+   "words": [
+    {
+     "en": "like",
+     "pron": "láik",
+     "pt": "gostar/como"
+    },
+    {
+     "en": "more",
+     "pron": "mór",
+     "pt": "mais"
+    },
+    {
+     "en": "many",
+     "pron": "méni",
+     "pt": "muitos"
+    },
+    {
+     "en": "much",
+     "pron": "mâtch",
+     "pt": "muito"
+    },
+    {
+     "en": "happen",
+     "pron": "répen",
+     "pt": "acontecer"
+    },
+    {
+     "en": "write",
+     "pron": "ráit",
+     "pt": "escrever"
+    },
+    {
+     "en": "system",
+     "pron": "sístem",
+     "pt": "sistema"
+    },
+    {
+     "en": "same",
+     "pron": "sêim",
+     "pt": "mesmo"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I like it very much.",
+     "pt": "Gosto muito disso."
+    },
+    {
+     "en": "What happened?",
+     "pt": "O que aconteceu?"
+    }
+   ],
+   "book": {
+    "title": "The Jungle Book",
+    "level": "Level 2 (A2)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "English with Lucy",
+    "search": "English with Lucy much many",
+    "url": "https://www.youtube.com/results?search_query=English+with+Lucy+much+many"
+   }
+  },
+  {
+   "week": 24,
+   "quarter": 2,
+   "quarterTheme": "Comunicação diária",
+   "cumulativeWords": 144,
+   "words": [
+    {
+     "en": "if",
+     "pron": "íf",
+     "pt": "se"
+    },
+    {
+     "en": "than",
+     "pron": "dén",
+     "pt": "do que"
+    },
+    {
+     "en": "then",
+     "pron": "dén",
+     "pt": "então/depois"
+    },
+    {
+     "en": "only",
+     "pron": "ôunli",
+     "pt": "somente"
+    },
+    {
+     "en": "provide",
+     "pron": "prováid",
+     "pt": "fornecer"
+    },
+    {
+     "en": "sit",
+     "pron": "sít",
+     "pt": "sentar"
+    },
+    {
+     "en": "question",
+     "pron": "kuéstchon",
+     "pt": "pergunta"
+    },
+    {
+     "en": "able",
+     "pron": "êibol",
+     "pt": "capaz"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "If you can, call me.",
+     "pt": "Se puder, me ligue."
+    },
+    {
+     "en": "Do you have a question?",
+     "pt": "Você tem uma pergunta?"
+    }
+   ],
+   "book": {
+    "title": "The Jungle Book",
+    "level": "Level 2 (A2)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "BBC Learning English",
+    "search": "BBC Learning English first conditional if",
+    "url": "https://www.youtube.com/results?search_query=BBC+Learning+English+first+conditional+if"
+   }
+  },
+  {
+   "week": 25,
+   "quarter": 2,
+   "quarterTheme": "Comunicação diária",
+   "cumulativeWords": 152,
+   "words": [
+    {
+     "en": "other",
+     "pron": "âder",
+     "pt": "outro"
+    },
+    {
+     "en": "well",
+     "pron": "uél",
+     "pt": "bem"
+    },
+    {
+     "en": "back",
+     "pron": "bék",
+     "pt": "de volta"
+    },
+    {
+     "en": "still",
+     "pron": "stíl",
+     "pt": "ainda"
+    },
+    {
+     "en": "stand",
+     "pron": "sténd",
+     "pt": "ficar de pé"
+    },
+    {
+     "en": "lose",
+     "pron": "lúz",
+     "pt": "perder"
+    },
+    {
+     "en": "government",
+     "pron": "gâvernment",
+     "pt": "governo"
+    },
+    {
+     "en": "human",
+     "pron": "riúman",
+     "pt": "humano"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I am back.",
+     "pt": "Estou de volta."
+    },
+    {
+     "en": "I still work here.",
+     "pt": "Ainda trabalho aqui."
+    }
+   ],
+   "book": {
+    "title": "Robinson Crusoe",
+    "level": "Level 2 (A2)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "Mairo Vergara",
+    "search": "Mairo Vergara past simple",
+    "url": "https://www.youtube.com/results?search_query=Mairo+Vergara+past+simple"
+   }
+  },
+  {
+   "week": 26,
+   "quarter": 2,
+   "quarterTheme": "Comunicação diária",
+   "cumulativeWords": 160,
+   "words": [
+    {
+     "en": "even",
+     "pron": "íven",
+     "pt": "até/mesmo"
+    },
+    {
+     "en": "any",
+     "pron": "éni",
+     "pt": "qualquer"
+    },
+    {
+     "en": "again",
+     "pron": "eguén",
+     "pt": "de novo"
+    },
+    {
+     "en": "never",
+     "pron": "néver",
+     "pt": "nunca"
+    },
+    {
+     "en": "pay",
+     "pron": "pêi",
+     "pt": "pagar"
+    },
+    {
+     "en": "meet",
+     "pron": "mít",
+     "pt": "encontrar/conhecer"
+    },
+    {
+     "en": "number",
+     "pron": "nâmber",
+     "pt": "número"
+    },
+    {
+     "en": "local",
+     "pron": "lôucal",
+     "pt": "local"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I never pay late.",
+     "pt": "Eu nunca pago atrasado."
+    },
+    {
+     "en": "Nice to meet you.",
+     "pt": "Prazer em conhecer."
+    }
+   ],
+   "book": {
+    "title": "Robinson Crusoe",
+    "level": "Level 2 (A2)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Easy English",
+    "search": "Easy English street interviews",
+    "url": "https://www.youtube.com/results?search_query=Easy+English+street+interviews"
+   }
+  },
+  {
+   "week": 27,
+   "quarter": 3,
+   "quarterTheme": "Conversas e histórias",
+   "cumulativeWords": 168,
+   "words": [
+    {
+     "en": "always",
+     "pron": "ólweiz",
+     "pt": "sempre"
+    },
+    {
+     "en": "often",
+     "pron": "ófen",
+     "pt": "frequentemente"
+    },
+    {
+     "en": "include",
+     "pron": "inclúd",
+     "pt": "incluir"
+    },
+    {
+     "en": "continue",
+     "pron": "contíniu",
+     "pt": "continuar"
+    },
+    {
+     "en": "set",
+     "pron": "sét",
+     "pt": "definir/colocar"
+    },
+    {
+     "en": "night",
+     "pron": "náit",
+     "pt": "noite"
+    },
+    {
+     "en": "point",
+     "pron": "póint",
+     "pt": "ponto"
+    },
+    {
+     "en": "late",
+     "pron": "lêit",
+     "pt": "tarde/atrasado"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I always work at night.",
+     "pt": "Sempre trabalho à noite."
+    },
+    {
+     "en": "Sorry, I am late.",
+     "pt": "Desculpe, estou atrasado."
+    }
+   ],
+   "book": {
+    "title": "Anne of Green Gables",
+    "level": "Level 2 (A2)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "BBC Learning English",
+    "search": "6 Minute English habits always often",
+    "url": "https://www.youtube.com/results?search_query=6+Minute+English+habits+always+often"
+   }
+  },
+  {
+   "week": 28,
+   "quarter": 3,
+   "quarterTheme": "Conversas e histórias",
+   "cumulativeWords": 176,
+   "words": [
+    {
+     "en": "learn",
+     "pron": "lârn",
+     "pt": "aprender"
+    },
+    {
+     "en": "change",
+     "pron": "tchêindj",
+     "pt": "mudar"
+    },
+    {
+     "en": "lead",
+     "pron": "líd",
+     "pt": "liderar"
+    },
+    {
+     "en": "understand",
+     "pron": "anderstén",
+     "pt": "entender"
+    },
+    {
+     "en": "home",
+     "pron": "rôum",
+     "pt": "casa/lar"
+    },
+    {
+     "en": "water",
+     "pron": "uórer",
+     "pt": "água"
+    },
+    {
+     "en": "room",
+     "pron": "rúm",
+     "pt": "sala/quarto"
+    },
+    {
+     "en": "hard",
+     "pron": "rárd",
+     "pt": "difícil/duro"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I want to learn English.",
+     "pt": "Quero aprender inglês."
+    },
+    {
+     "en": "I understand.",
+     "pt": "Eu entendo."
+    }
+   ],
+   "book": {
+    "title": "Anne of Green Gables",
+    "level": "Level 2 (A2)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Learn English with Bob the Canadian",
+    "search": "Bob the Canadian learn English",
+    "url": "https://www.youtube.com/results?search_query=Bob+the+Canadian+learn+English"
+   }
+  },
+  {
+   "week": 29,
+   "quarter": 3,
+   "quarterTheme": "Conversas e histórias",
+   "cumulativeWords": 184,
+   "words": [
+    {
+     "en": "watch",
+     "pron": "uótch",
+     "pt": "assistir"
+    },
+    {
+     "en": "follow",
+     "pron": "fálou",
+     "pt": "seguir"
+    },
+    {
+     "en": "stop",
+     "pron": "stóp",
+     "pt": "parar"
+    },
+    {
+     "en": "create",
+     "pron": "criêit",
+     "pt": "criar"
+    },
+    {
+     "en": "mother",
+     "pron": "mâder",
+     "pt": "mãe"
+    },
+    {
+     "en": "area",
+     "pron": "éria",
+     "pt": "área"
+    },
+    {
+     "en": "money",
+     "pron": "mâni",
+     "pt": "dinheiro"
+    },
+    {
+     "en": "real",
+     "pron": "rîal",
+     "pt": "real"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I watch a movie.",
+     "pt": "Eu assisto a um filme."
+    },
+    {
+     "en": "Stop, please!",
+     "pt": "Pare, por favor!"
+    }
+   ],
+   "book": {
+    "title": "Gulliver's Travels",
+    "level": "Level 2 (A2)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "Learn English with TV Series",
+    "search": "Learn English with Friends TV series",
+    "url": "https://www.youtube.com/results?search_query=Learn+English+with+Friends+TV+series"
+   }
+  },
+  {
+   "week": 30,
+   "quarter": 3,
+   "quarterTheme": "Conversas e histórias",
+   "cumulativeWords": 192,
+   "words": [
+    {
+     "en": "speak",
+     "pron": "spík",
+     "pt": "falar"
+    },
+    {
+     "en": "read",
+     "pron": "ríd",
+     "pt": "ler"
+    },
+    {
+     "en": "spend",
+     "pron": "spénd",
+     "pt": "gastar/passar (tempo)"
+    },
+    {
+     "en": "grow",
+     "pron": "grôu",
+     "pt": "crescer"
+    },
+    {
+     "en": "story",
+     "pron": "stóri",
+     "pt": "história"
+    },
+    {
+     "en": "fact",
+     "pron": "féct",
+     "pt": "fato"
+    },
+    {
+     "en": "month",
+     "pron": "mânth",
+     "pt": "mês"
+    },
+    {
+     "en": "best",
+     "pron": "bést",
+     "pt": "o melhor"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I speak a little English.",
+     "pt": "Falo um pouco de inglês."
+    },
+    {
+     "en": "I read every month.",
+     "pt": "Leio todo mês."
+    }
+   ],
+   "book": {
+    "title": "Gulliver's Travels",
+    "level": "Level 2 (A2)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Rachel's English",
+    "search": "Rachel's English pronunciation read speak",
+    "url": "https://www.youtube.com/results?search_query=Rachel%27s+English+pronunciation+read+speak"
+   }
+  },
+  {
+   "week": 31,
+   "quarter": 3,
+   "quarterTheme": "Conversas e histórias",
+   "cumulativeWords": 200,
+   "words": [
+    {
+     "en": "open",
+     "pron": "ôupen",
+     "pt": "abrir"
+    },
+    {
+     "en": "walk",
+     "pron": "uók",
+     "pt": "caminhar"
+    },
+    {
+     "en": "win",
+     "pron": "uín",
+     "pt": "ganhar"
+    },
+    {
+     "en": "offer",
+     "pron": "ófer",
+     "pt": "oferecer"
+    },
+    {
+     "en": "lot",
+     "pron": "lót",
+     "pt": "muito (a lot)"
+    },
+    {
+     "en": "book",
+     "pron": "búk",
+     "pt": "livro"
+    },
+    {
+     "en": "job",
+     "pron": "djób",
+     "pt": "emprego"
+    },
+    {
+     "en": "sure",
+     "pron": "xúr",
+     "pt": "claro/certo"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Thanks a lot!",
+     "pt": "Muito obrigado!"
+    },
+    {
+     "en": "Sure!",
+     "pt": "Claro!"
+    }
+   ],
+   "book": {
+    "title": "The Adventures of Tom Sawyer",
+    "level": "Level 2 (A2)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "Speak English with Vanessa",
+    "search": "Speak English with Vanessa a lot of",
+    "url": "https://www.youtube.com/results?search_query=Speak+English+with+Vanessa+a+lot+of"
+   }
+  },
+  {
+   "week": 32,
+   "quarter": 3,
+   "quarterTheme": "Conversas e histórias",
+   "cumulativeWords": 208,
+   "words": [
+    {
+     "en": "remember",
+     "pron": "rimémber",
+     "pt": "lembrar"
+    },
+    {
+     "en": "love",
+     "pron": "lâv",
+     "pt": "amar"
+    },
+    {
+     "en": "consider",
+     "pron": "consíder",
+     "pt": "considerar"
+    },
+    {
+     "en": "appear",
+     "pron": "apíar",
+     "pt": "aparecer"
+    },
+    {
+     "en": "word",
+     "pron": "uórd",
+     "pt": "palavra"
+    },
+    {
+     "en": "business",
+     "pron": "bíznes",
+     "pt": "negócio"
+    },
+    {
+     "en": "issue",
+     "pron": "íxu",
+     "pt": "questão/problema"
+    },
+    {
+     "en": "free",
+     "pron": "frí",
+     "pt": "livre/grátis"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I remember your name.",
+     "pt": "Lembro do seu nome."
+    },
+    {
+     "en": "Are you free today?",
+     "pt": "Você está livre hoje?"
+    }
+   ],
+   "book": {
+    "title": "The Adventures of Tom Sawyer",
+    "level": "Level 2 (A2)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Teacher Allie",
+    "search": "Teacher Allie remember forget",
+    "url": "https://www.youtube.com/results?search_query=Teacher+Allie+remember+forget"
+   }
+  },
+  {
+   "week": 33,
+   "quarter": 3,
+   "quarterTheme": "Conversas e histórias",
+   "cumulativeWords": 216,
+   "words": [
+    {
+     "en": "buy",
+     "pron": "bái",
+     "pt": "comprar"
+    },
+    {
+     "en": "wait",
+     "pron": "uêit",
+     "pt": "esperar"
+    },
+    {
+     "en": "serve",
+     "pron": "sârv",
+     "pt": "servir"
+    },
+    {
+     "en": "die",
+     "pron": "dái",
+     "pt": "morrer"
+    },
+    {
+     "en": "side",
+     "pron": "sáid",
+     "pt": "lado"
+    },
+    {
+     "en": "kind",
+     "pron": "káind",
+     "pt": "tipo/gentil"
+    },
+    {
+     "en": "head",
+     "pron": "réd",
+     "pt": "cabeça/chefe"
+    },
+    {
+     "en": "better",
+     "pron": "béter",
+     "pt": "melhor (que)"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Wait a minute.",
+     "pt": "Espere um minuto."
+    },
+    {
+     "en": "It is better now.",
+     "pt": "Está melhor agora."
+    }
+   ],
+   "book": {
+    "title": "The Secret Garden",
+    "level": "Level 3 (B1)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "BBC Learning English",
+    "search": "BBC Learning English comparatives better best",
+    "url": "https://www.youtube.com/results?search_query=BBC+Learning+English+comparatives+better+best"
+   }
+  },
+  {
+   "week": 34,
+   "quarter": 3,
+   "quarterTheme": "Conversas e histórias",
+   "cumulativeWords": 224,
+   "words": [
+    {
+     "en": "send",
+     "pron": "sénd",
+     "pt": "enviar"
+    },
+    {
+     "en": "expect",
+     "pron": "ekspékt",
+     "pt": "esperar (expectativa)"
+    },
+    {
+     "en": "build",
+     "pron": "bíld",
+     "pt": "construir"
+    },
+    {
+     "en": "stay",
+     "pron": "stêi",
+     "pt": "ficar"
+    },
+    {
+     "en": "house",
+     "pron": "ráus",
+     "pt": "casa"
+    },
+    {
+     "en": "service",
+     "pron": "sârvis",
+     "pt": "serviço"
+    },
+    {
+     "en": "friend",
+     "pron": "frénd",
+     "pt": "amigo"
+    },
+    {
+     "en": "true",
+     "pron": "trú",
+     "pt": "verdadeiro"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I will send the email.",
+     "pt": "Vou enviar o e-mail."
+    },
+    {
+     "en": "Stay here.",
+     "pt": "Fique aqui."
+    }
+   ],
+   "book": {
+    "title": "The Secret Garden",
+    "level": "Level 3 (B1)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "English with Lucy",
+    "search": "English with Lucy present perfect",
+    "url": "https://www.youtube.com/results?search_query=English+with+Lucy+present+perfect"
+   }
+  },
+  {
+   "week": 35,
+   "quarter": 3,
+   "quarterTheme": "Conversas e histórias",
+   "cumulativeWords": 232,
+   "words": [
+    {
+     "en": "fall",
+     "pron": "fól",
+     "pt": "cair"
+    },
+    {
+     "en": "cut",
+     "pron": "cât",
+     "pt": "cortar"
+    },
+    {
+     "en": "reach",
+     "pron": "rítch",
+     "pt": "alcançar"
+    },
+    {
+     "en": "kill",
+     "pron": "kíl",
+     "pt": "matar"
+    },
+    {
+     "en": "father",
+     "pron": "fáder",
+     "pt": "pai"
+    },
+    {
+     "en": "power",
+     "pron": "páuer",
+     "pt": "poder/energia"
+    },
+    {
+     "en": "hour",
+     "pron": "áuar",
+     "pt": "hora"
+    },
+    {
+     "en": "whole",
+     "pron": "rôul",
+     "pt": "inteiro"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I have one hour.",
+     "pt": "Tenho uma hora."
+    },
+    {
+     "en": "The whole day.",
+     "pt": "O dia inteiro."
+    }
+   ],
+   "book": {
+    "title": "Frankenstein",
+    "level": "Level 3 (B1)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "English in Brazil (Carina Fragozo)",
+    "search": "Carina Fragozo past continuous",
+    "url": "https://www.youtube.com/results?search_query=Carina+Fragozo+past+continuous"
+   }
+  },
+  {
+   "week": 36,
+   "quarter": 3,
+   "quarterTheme": "Conversas e histórias",
+   "cumulativeWords": 240,
+   "words": [
+    {
+     "en": "remain",
+     "pron": "riméin",
+     "pt": "permanecer"
+    },
+    {
+     "en": "suggest",
+     "pron": "sadjést",
+     "pt": "sugerir"
+    },
+    {
+     "en": "raise",
+     "pron": "rêiz",
+     "pt": "levantar/aumentar"
+    },
+    {
+     "en": "pass",
+     "pron": "pés",
+     "pt": "passar"
+    },
+    {
+     "en": "game",
+     "pron": "guêim",
+     "pt": "jogo"
+    },
+    {
+     "en": "line",
+     "pron": "láin",
+     "pt": "linha"
+    },
+    {
+     "en": "end",
+     "pron": "énd",
+     "pt": "fim"
+    },
+    {
+     "en": "possible",
+     "pron": "póssibol",
+     "pt": "possível"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I suggest a meeting.",
+     "pt": "Sugiro uma reunião."
+    },
+    {
+     "en": "It is possible.",
+     "pt": "É possível."
+    }
+   ],
+   "book": {
+    "title": "Frankenstein",
+    "level": "Level 3 (B1)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "BBC Learning English",
+    "search": "6 Minute English work",
+    "url": "https://www.youtube.com/results?search_query=6+Minute+English+work"
+   }
+  },
+  {
+   "week": 37,
+   "quarter": 3,
+   "quarterTheme": "Conversas e histórias",
+   "cumulativeWords": 248,
+   "words": [
+    {
+     "en": "sell",
+     "pron": "sél",
+     "pt": "vender"
+    },
+    {
+     "en": "require",
+     "pron": "rikuáiar",
+     "pt": "exigir"
+    },
+    {
+     "en": "report",
+     "pron": "ripórt",
+     "pt": "relatar/relatório"
+    },
+    {
+     "en": "decide",
+     "pron": "dissáid",
+     "pt": "decidir"
+    },
+    {
+     "en": "member",
+     "pron": "mémber",
+     "pt": "membro"
+    },
+    {
+     "en": "law",
+     "pron": "ló",
+     "pt": "lei"
+    },
+    {
+     "en": "car",
+     "pron": "kár",
+     "pt": "carro"
+    },
+    {
+     "en": "ready",
+     "pron": "rédi",
+     "pt": "pronto"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I am ready.",
+     "pt": "Estou pronto."
+    },
+    {
+     "en": "Send me the report.",
+     "pt": "Me envie o relatório."
+    }
+   ],
+   "book": {
+    "title": "The Call of the Wild",
+    "level": "Level 3 (B1)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "BBC Learning English",
+    "search": "English at Work reports",
+    "url": "https://www.youtube.com/results?search_query=English+at+Work+reports"
+   }
+  },
+  {
+   "week": 38,
+   "quarter": 3,
+   "quarterTheme": "Conversas e histórias",
+   "cumulativeWords": 256,
+   "words": [
+    {
+     "en": "pull",
+     "pron": "púl",
+     "pt": "puxar"
+    },
+    {
+     "en": "return",
+     "pron": "ritârn",
+     "pt": "voltar/devolver"
+    },
+    {
+     "en": "explain",
+     "pron": "ekspléin",
+     "pt": "explicar"
+    },
+    {
+     "en": "hope",
+     "pron": "rôup",
+     "pt": "ter esperança"
+    },
+    {
+     "en": "city",
+     "pron": "síti",
+     "pt": "cidade"
+    },
+    {
+     "en": "community",
+     "pron": "comiúniti",
+     "pt": "comunidade"
+    },
+    {
+     "en": "name",
+     "pron": "nêim",
+     "pt": "nome"
+    },
+    {
+     "en": "easy",
+     "pron": "ízi",
+     "pt": "fácil"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Can you explain?",
+     "pt": "Pode explicar?"
+    },
+    {
+     "en": "I hope so.",
+     "pt": "Espero que sim."
+    }
+   ],
+   "book": {
+    "title": "The Call of the Wild",
+    "level": "Level 3 (B1)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Mairo Vergara",
+    "search": "Mairo Vergara hope wish",
+    "url": "https://www.youtube.com/results?search_query=Mairo+Vergara+hope+wish"
+   }
+  },
+  {
+   "week": 39,
+   "quarter": 3,
+   "quarterTheme": "Conversas e histórias",
+   "cumulativeWords": 264,
+   "words": [
+    {
+     "en": "develop",
+     "pron": "divélop",
+     "pt": "desenvolver"
+    },
+    {
+     "en": "carry",
+     "pron": "kéri",
+     "pt": "carregar"
+    },
+    {
+     "en": "break",
+     "pron": "brêik",
+     "pt": "quebrar"
+    },
+    {
+     "en": "receive",
+     "pron": "rissív",
+     "pt": "receber"
+    },
+    {
+     "en": "president",
+     "pron": "prézident",
+     "pt": "presidente"
+    },
+    {
+     "en": "team",
+     "pron": "tím",
+     "pt": "equipe"
+    },
+    {
+     "en": "minute",
+     "pron": "mínit",
+     "pt": "minuto"
+    },
+    {
+     "en": "clear",
+     "pron": "clíar",
+     "pt": "claro"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Our team is great.",
+     "pt": "Nossa equipe é ótima."
+    },
+    {
+     "en": "It is clear.",
+     "pt": "Está claro."
+    }
+   ],
+   "book": {
+    "title": "Jane Eyre",
+    "level": "Level 3 (B1)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "Business English Pod",
+    "search": "Business English Pod teamwork",
+    "url": "https://www.youtube.com/results?search_query=Business+English+Pod+teamwork"
+   }
+  },
+  {
+   "week": 40,
+   "quarter": 4,
+   "quarterTheme": "Trabalho e viagem",
+   "cumulativeWords": 272,
+   "words": [
+    {
+     "en": "agree",
+     "pron": "egrí",
+     "pt": "concordar"
+    },
+    {
+     "en": "support",
+     "pron": "sapórt",
+     "pt": "apoiar/suporte"
+    },
+    {
+     "en": "hit",
+     "pron": "rít",
+     "pt": "bater"
+    },
+    {
+     "en": "produce",
+     "pron": "prodiús",
+     "pt": "produzir"
+    },
+    {
+     "en": "idea",
+     "pron": "aidía",
+     "pt": "ideia"
+    },
+    {
+     "en": "kid",
+     "pron": "kíd",
+     "pt": "criança"
+    },
+    {
+     "en": "body",
+     "pron": "bódi",
+     "pt": "corpo"
+    },
+    {
+     "en": "full",
+     "pron": "fúl",
+     "pt": "cheio"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I agree with you.",
+     "pt": "Concordo com você."
+    },
+    {
+     "en": "Good idea!",
+     "pt": "Boa ideia!"
+    }
+   ],
+   "book": {
+    "title": "Jane Eyre",
+    "level": "Level 3 (B1)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Speak English with Vanessa",
+    "search": "Speak English with Vanessa agree disagree",
+    "url": "https://www.youtube.com/results?search_query=Speak+English+with+Vanessa+agree+disagree"
+   }
+  },
+  {
+   "week": 41,
+   "quarter": 4,
+   "quarterTheme": "Trabalho e viagem",
+   "cumulativeWords": 280,
+   "words": [
+    {
+     "en": "eat",
+     "pron": "ít",
+     "pt": "comer"
+    },
+    {
+     "en": "cover",
+     "pron": "kâver",
+     "pt": "cobrir"
+    },
+    {
+     "en": "catch",
+     "pron": "kétch",
+     "pt": "pegar/apanhar"
+    },
+    {
+     "en": "draw",
+     "pron": "dró",
+     "pt": "desenhar"
+    },
+    {
+     "en": "information",
+     "pron": "informêixon",
+     "pt": "informação"
+    },
+    {
+     "en": "face",
+     "pron": "fêis",
+     "pt": "rosto"
+    },
+    {
+     "en": "level",
+     "pron": "lével",
+     "pt": "nível"
+    },
+    {
+     "en": "special",
+     "pron": "spéxal",
+     "pt": "especial"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Let's eat!",
+     "pt": "Vamos comer!"
+    },
+    {
+     "en": "Thank you for the information.",
+     "pt": "Obrigado pela informação."
+    }
+   ],
+   "book": {
+    "title": "Kidnapped",
+    "level": "Level 3 (B1)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "Easy English",
+    "search": "Easy English food",
+    "url": "https://www.youtube.com/results?search_query=Easy+English+food"
+   }
+  },
+  {
+   "week": 42,
+   "quarter": 4,
+   "quarterTheme": "Trabalho e viagem",
+   "cumulativeWords": 288,
+   "words": [
+    {
+     "en": "choose",
+     "pron": "tchúz",
+     "pt": "escolher"
+    },
+    {
+     "en": "cause",
+     "pron": "kóz",
+     "pt": "causar/causa"
+    },
+    {
+     "en": "listen",
+     "pron": "líssen",
+     "pt": "escutar"
+    },
+    {
+     "en": "finish",
+     "pron": "fínix",
+     "pt": "terminar"
+    },
+    {
+     "en": "office",
+     "pron": "ófis",
+     "pt": "escritório"
+    },
+    {
+     "en": "door",
+     "pron": "dór",
+     "pt": "porta"
+    },
+    {
+     "en": "health",
+     "pron": "rélth",
+     "pt": "saúde"
+    },
+    {
+     "en": "strong",
+     "pron": "stróng",
+     "pt": "forte"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Listen to me.",
+     "pt": "Me escute."
+    },
+    {
+     "en": "I finish at five.",
+     "pt": "Termino às cinco."
+    }
+   ],
+   "book": {
+    "title": "Kidnapped",
+    "level": "Level 3 (B1)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Learn English with Bob the Canadian",
+    "search": "Bob the Canadian at the office",
+    "url": "https://www.youtube.com/results?search_query=Bob+the+Canadian+at+the+office"
+   }
+  },
+  {
+   "week": 43,
+   "quarter": 4,
+   "quarterTheme": "Trabalho e viagem",
+   "cumulativeWords": 296,
+   "words": [
+    {
+     "en": "plan",
+     "pron": "plén",
+     "pt": "planejar/plano"
+    },
+    {
+     "en": "teach",
+     "pron": "títch",
+     "pt": "ensinar"
+    },
+    {
+     "en": "drive",
+     "pron": "dráiv",
+     "pt": "dirigir"
+    },
+    {
+     "en": "prepare",
+     "pron": "pripér",
+     "pt": "preparar"
+    },
+    {
+     "en": "party",
+     "pron": "párti",
+     "pt": "festa"
+    },
+    {
+     "en": "result",
+     "pron": "rizâlt",
+     "pt": "resultado"
+    },
+    {
+     "en": "morning",
+     "pron": "mórnin",
+     "pt": "manhã"
+    },
+    {
+     "en": "certain",
+     "pron": "sârten",
+     "pt": "certo"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "What is the plan?",
+     "pt": "Qual é o plano?"
+    },
+    {
+     "en": "Good morning, team!",
+     "pt": "Bom dia, equipe!"
+    }
+   ],
+   "book": {
+    "title": "Treasure Island",
+    "level": "Level 4 (B1+)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "English with Lucy",
+    "search": "English with Lucy going to future plans",
+    "url": "https://www.youtube.com/results?search_query=English+with+Lucy+going+to+future+plans"
+   }
+  },
+  {
+   "week": 44,
+   "quarter": 4,
+   "quarterTheme": "Trabalho e viagem",
+   "cumulativeWords": 304,
+   "words": [
+    {
+     "en": "test",
+     "pron": "tést",
+     "pt": "testar/teste"
+    },
+    {
+     "en": "check",
+     "pron": "tchék",
+     "pt": "verificar"
+    },
+    {
+     "en": "fix",
+     "pron": "fíks",
+     "pt": "consertar"
+    },
+    {
+     "en": "improve",
+     "pron": "imprúv",
+     "pt": "melhorar"
+    },
+    {
+     "en": "quality",
+     "pron": "kuóliti",
+     "pt": "qualidade"
+    },
+    {
+     "en": "cost",
+     "pron": "cóst",
+     "pt": "custo"
+    },
+    {
+     "en": "customer",
+     "pron": "kâstomer",
+     "pt": "cliente"
+    },
+    {
+     "en": "low",
+     "pron": "lôu",
+     "pt": "baixo"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "We check the quality.",
+     "pt": "Verificamos a qualidade."
+    },
+    {
+     "en": "The cost is low.",
+     "pt": "O custo é baixo."
+    }
+   ],
+   "book": {
+    "title": "Treasure Island",
+    "level": "Level 4 (B1+)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Business English Pod",
+    "search": "Business English quality control vocabulary",
+    "url": "https://www.youtube.com/results?search_query=Business+English+quality+control+vocabulary"
+   }
+  },
+  {
+   "week": 45,
+   "quarter": 4,
+   "quarterTheme": "Trabalho e viagem",
+   "cumulativeWords": 312,
+   "words": [
+    {
+     "en": "travel",
+     "pron": "trével",
+     "pt": "viajar"
+    },
+    {
+     "en": "arrive",
+     "pron": "aráiv",
+     "pt": "chegar"
+    },
+    {
+     "en": "visit",
+     "pron": "vízit",
+     "pt": "visitar"
+    },
+    {
+     "en": "fly",
+     "pron": "flái",
+     "pt": "voar"
+    },
+    {
+     "en": "country",
+     "pron": "kântri",
+     "pt": "país"
+    },
+    {
+     "en": "weather",
+     "pron": "uéder",
+     "pt": "clima/tempo"
+    },
+    {
+     "en": "trip",
+     "pron": "tríp",
+     "pt": "viagem"
+    },
+    {
+     "en": "cold",
+     "pron": "côuld",
+     "pt": "frio"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I travel for work.",
+     "pt": "Viajo a trabalho."
+    },
+    {
+     "en": "The weather is cold.",
+     "pt": "O tempo está frio."
+    }
+   ],
+   "book": {
+    "title": "The Picture of Dorian Gray",
+    "level": "Level 3 (B1)",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "BBC Learning English",
+    "search": "BBC Learning English travel airport",
+    "url": "https://www.youtube.com/results?search_query=BBC+Learning+English+travel+airport"
+   }
+  },
+  {
+   "week": 46,
+   "quarter": 4,
+   "quarterTheme": "Trabalho e viagem",
+   "cumulativeWords": 320,
+   "words": [
+    {
+     "en": "enjoy",
+     "pron": "endjói",
+     "pt": "curtir/aproveitar"
+    },
+    {
+     "en": "sleep",
+     "pron": "slíp",
+     "pt": "dormir"
+    },
+    {
+     "en": "cook",
+     "pron": "kúk",
+     "pt": "cozinhar"
+    },
+    {
+     "en": "wear",
+     "pron": "uér",
+     "pt": "vestir/usar"
+    },
+    {
+     "en": "food",
+     "pron": "fúd",
+     "pt": "comida"
+    },
+    {
+     "en": "family",
+     "pron": "fémili",
+     "pt": "família"
+    },
+    {
+     "en": "weekend",
+     "pron": "uíkend",
+     "pt": "fim de semana"
+    },
+    {
+     "en": "tired",
+     "pron": "táiard",
+     "pt": "cansado"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Enjoy your weekend!",
+     "pt": "Aproveite o fim de semana!"
+    },
+    {
+     "en": "I am tired.",
+     "pt": "Estou cansado."
+    }
+   ],
+   "book": {
+    "title": "The Picture of Dorian Gray",
+    "level": "Level 3 (B1)",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Easy English",
+    "search": "Easy English weekend",
+    "url": "https://www.youtube.com/results?search_query=Easy+English+weekend"
+   }
+  },
+  {
+   "week": 47,
+   "quarter": 4,
+   "quarterTheme": "Trabalho e viagem",
+   "cumulativeWords": 328,
+   "words": [
+    {
+     "en": "forget",
+     "pron": "forguét",
+     "pt": "esquecer"
+    },
+    {
+     "en": "worry",
+     "pron": "uâri",
+     "pt": "preocupar-se"
+    },
+    {
+     "en": "smile",
+     "pron": "smáil",
+     "pt": "sorrir"
+    },
+    {
+     "en": "laugh",
+     "pron": "léf",
+     "pt": "rir"
+    },
+    {
+     "en": "music",
+     "pron": "miúzik",
+     "pt": "música"
+    },
+    {
+     "en": "picture",
+     "pron": "píktcher",
+     "pt": "foto/imagem"
+    },
+    {
+     "en": "reason",
+     "pron": "rízon",
+     "pt": "razão"
+    },
+    {
+     "en": "happy",
+     "pron": "répi",
+     "pt": "feliz"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Don't worry!",
+     "pt": "Não se preocupe!"
+    },
+    {
+     "en": "I am happy.",
+     "pt": "Estou feliz."
+    }
+   ],
+   "book": {
+    "title": "Charlie and the Chocolate Factory",
+    "level": "Original - Roald Dahl",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "Learn English with TV Series",
+    "search": "Learn English with movies",
+    "url": "https://www.youtube.com/results?search_query=Learn+English+with+movies"
+   }
+  },
+  {
+   "week": 48,
+   "quarter": 4,
+   "quarterTheme": "Trabalho e viagem",
+   "cumulativeWords": 336,
+   "words": [
+    {
+     "en": "answer",
+     "pron": "énser",
+     "pt": "responder"
+    },
+    {
+     "en": "share",
+     "pron": "xér",
+     "pt": "compartilhar"
+    },
+    {
+     "en": "join",
+     "pron": "djóin",
+     "pt": "participar"
+    },
+    {
+     "en": "manage",
+     "pron": "ménidj",
+     "pt": "gerenciar"
+    },
+    {
+     "en": "meeting",
+     "pron": "mítin",
+     "pt": "reunião"
+    },
+    {
+     "en": "email",
+     "pron": "ímeil",
+     "pt": "e-mail"
+    },
+    {
+     "en": "project",
+     "pron": "prádjekt",
+     "pt": "projeto"
+    },
+    {
+     "en": "available",
+     "pron": "avêilabol",
+     "pt": "disponível"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I will share my screen.",
+     "pt": "Vou compartilhar minha tela."
+    },
+    {
+     "en": "Are you available?",
+     "pt": "Você está disponível?"
+    }
+   ],
+   "book": {
+    "title": "Charlie and the Chocolate Factory",
+    "level": "Original - Roald Dahl",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "BBC Learning English",
+    "search": "English for meetings useful phrases",
+    "url": "https://www.youtube.com/results?search_query=English+for+meetings+useful+phrases"
+   }
+  },
+  {
+   "week": 49,
+   "quarter": 4,
+   "quarterTheme": "Trabalho e viagem",
+   "cumulativeWords": 344,
+   "words": [
+    {
+     "en": "order",
+     "pron": "órder",
+     "pt": "pedido/pedir"
+    },
+    {
+     "en": "deliver",
+     "pron": "delíver",
+     "pt": "entregar"
+    },
+    {
+     "en": "supplier",
+     "pron": "sapláier",
+     "pt": "fornecedor"
+    },
+    {
+     "en": "machine",
+     "pron": "maxín",
+     "pt": "máquina"
+    },
+    {
+     "en": "piece",
+     "pron": "pís",
+     "pt": "peça"
+    },
+    {
+     "en": "price",
+     "pron": "práis",
+     "pt": "preço"
+    },
+    {
+     "en": "delay",
+     "pron": "diléi",
+     "pt": "atraso"
+    },
+    {
+     "en": "urgent",
+     "pron": "ârdjent",
+     "pt": "urgente"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "The supplier has a delay.",
+     "pt": "O fornecedor tem um atraso."
+    },
+    {
+     "en": "It is urgent.",
+     "pt": "É urgente."
+    }
+   ],
+   "book": {
+    "title": "The Old Man and the Sea",
+    "level": "Original - Hemingway",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "Business English Pod",
+    "search": "Business English Pod suppliers negotiation",
+    "url": "https://www.youtube.com/results?search_query=Business+English+Pod+suppliers+negotiation"
+   }
+  },
+  {
+   "week": 50,
+   "quarter": 4,
+   "quarterTheme": "Trabalho e viagem",
+   "cumulativeWords": 352,
+   "words": [
+    {
+     "en": "describe",
+     "pron": "discráib",
+     "pt": "descrever"
+    },
+    {
+     "en": "compare",
+     "pron": "compér",
+     "pt": "comparar"
+    },
+    {
+     "en": "discuss",
+     "pron": "discâs",
+     "pt": "discutir"
+    },
+    {
+     "en": "mean",
+     "pron": "mín",
+     "pt": "significar"
+    },
+    {
+     "en": "example",
+     "pron": "eguzémpol",
+     "pt": "exemplo"
+    },
+    {
+     "en": "difference",
+     "pron": "díferens",
+     "pt": "diferença"
+    },
+    {
+     "en": "similar",
+     "pron": "símilar",
+     "pt": "parecido"
+    },
+    {
+     "en": "simple",
+     "pron": "símpol",
+     "pt": "simples"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "What does it mean?",
+     "pt": "O que significa?"
+    },
+    {
+     "en": "It is simple.",
+     "pt": "É simples."
+    }
+   ],
+   "book": {
+    "title": "The Old Man and the Sea",
+    "level": "Original - Hemingway",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "Speak English with Vanessa",
+    "search": "Speak English with Vanessa describe",
+    "url": "https://www.youtube.com/results?search_query=Speak+English+with+Vanessa+describe"
+   }
+  },
+  {
+   "week": 51,
+   "quarter": 4,
+   "quarterTheme": "Trabalho e viagem",
+   "cumulativeWords": 360,
+   "words": [
+    {
+     "en": "already",
+     "pron": "olrédi",
+     "pt": "já"
+    },
+    {
+     "en": "yet",
+     "pron": "iét",
+     "pt": "ainda (neg./perg.)"
+    },
+    {
+     "en": "soon",
+     "pron": "sún",
+     "pt": "em breve"
+    },
+    {
+     "en": "ago",
+     "pron": "egôu",
+     "pt": "atrás (tempo)"
+    },
+    {
+     "en": "maybe",
+     "pron": "mêibi",
+     "pt": "talvez"
+    },
+    {
+     "en": "probably",
+     "pron": "próbabli",
+     "pt": "provavelmente"
+    },
+    {
+     "en": "together",
+     "pron": "tuguéder",
+     "pt": "juntos"
+    },
+    {
+     "en": "enough",
+     "pron": "inâf",
+     "pt": "suficiente"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "I already sent it.",
+     "pt": "Eu já enviei."
+    },
+    {
+     "en": "See you soon!",
+     "pt": "Até breve!"
+    }
+   ],
+   "book": {
+    "title": "The Little Prince",
+    "level": "Edição em inglês",
+    "part": "1ª metade"
+   },
+   "video": {
+    "channel": "Teacher Allie",
+    "search": "Teacher Allie already yet",
+    "url": "https://www.youtube.com/results?search_query=Teacher+Allie+already+yet"
+   }
+  },
+  {
+   "week": 52,
+   "quarter": 4,
+   "quarterTheme": "Trabalho e viagem",
+   "cumulativeWords": 368,
+   "words": [
+    {
+     "en": "through",
+     "pron": "thrú",
+     "pt": "através de"
+    },
+    {
+     "en": "during",
+     "pron": "diúrin",
+     "pt": "durante"
+    },
+    {
+     "en": "until",
+     "pron": "antíl",
+     "pt": "até"
+    },
+    {
+     "en": "before",
+     "pron": "bifór",
+     "pt": "antes"
+    },
+    {
+     "en": "after",
+     "pron": "éfter",
+     "pt": "depois"
+    },
+    {
+     "en": "while",
+     "pron": "uáil",
+     "pt": "enquanto"
+    },
+    {
+     "en": "however",
+     "pron": "rauéver",
+     "pt": "no entanto"
+    },
+    {
+     "en": "although",
+     "pron": "óldou",
+     "pt": "embora"
+    }
+   ],
+   "phrases": [
+    {
+     "en": "Before the meeting.",
+     "pt": "Antes da reunião."
+    },
+    {
+     "en": "After work, I go home.",
+     "pt": "Depois do trabalho vou para casa."
+    }
+   ],
+   "book": {
+    "title": "The Little Prince",
+    "level": "Edição em inglês",
+    "part": "2ª metade (terminar)"
+   },
+   "video": {
+    "channel": "English with Lucy",
+    "search": "English with Lucy linking words however although",
+    "url": "https://www.youtube.com/results?search_query=English+with+Lucy+linking+words+however+although"
+   }
+  }
+ ]
+}
